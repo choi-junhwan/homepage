@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 JAN 2021 20:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  24 JAN 2021 21:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -305,7 +305,7 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \colbreak@box=\box53
 \mc@col@check@num=\count106
 )
-No file JChoiCVPub.aux.
+(./JChoiCVPub.aux)
 \openout1 = `JChoiCVPub.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -323,6 +323,7 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 12.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -369,6 +370,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 12.
 LaTeX Info: Redefining \pageref on input line 12.
 LaTeX Info: Redefining \nameref on input line 12.
+
+(./JChoiCVPub.out) (./JChoiCVPub.out)
 \@outlinefile=\write4
 \openout4 = `JChoiCVPub.out'.
 
@@ -405,12 +408,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 109.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 109.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 112.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 109.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 109.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pcr.fd
@@ -418,55 +421,48 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (18.88417pt too wide) in paragraph at lines 139--141
+Overfull \hbox (18.88417pt too wide) in paragraph at lines 136--138
 $\OMS/pzccm/m/n/10.95 ^^O$ \OT1/ptm/m/n/10.95 2010-2011 Ter-a-Grid Re-source Al
 -lo-ca-tions Com-mit-tee for the Texas Ad-vanced Com-put-ing Cen-ter : 750,000S
 M 
  []
 
 
-Overfull \hbox (18.88417pt too wide) in paragraph at lines 143--145
+Overfull \hbox (18.88417pt too wide) in paragraph at lines 140--142
 $\OMS/pzccm/m/n/10.95 ^^O$ \OT1/ptm/m/n/10.95 2009-2010 Ter-a-Grid Re-source Al
 -lo-ca-tions Com-mit-tee for the Texas Ad-vanced Com-put-ing Cen-ter : 600,000S
 M 
  []
 
 [2]
-Overfull \hbox (7.24501pt too wide) in paragraph at lines 187--189
-[]| 
+Overfull \hbox (7.24501pt too wide) in paragraph at lines 184--188
+[]|
  []
 
 [3] [4] [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 303.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 303.
  (./JChoiCVPub.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 319.
-
-
-Package rerunfilecheck Warning: File `JChoiCVPub.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `JChoiCVPub.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 319.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 303.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 303.
+Package rerunfilecheck Info: File `JChoiCVPub.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 303.
  )
 (\end occurred inside a group at level 2)
 
-### simple group (level 2) entered at line 185 ({)
+### simple group (level 2) entered at line 182 ({)
 ### simple group (level 1) entered at line 17 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 5666 strings out of 493089
- 84707 string characters out of 6134842
- 174907 words of memory out of 5000000
+ 5672 strings out of 493089
+ 84797 string characters out of 6134842
+ 175011 words of memory out of 5000000
  9081 multiletter control sequences out of 15000+600000
  31939 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,8n,23p,430b,435s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,8n,23p,430b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc
 }</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
@@ -474,7 +470,7 @@ Here is how much of TeX's memory you used:
 al/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texm
 f-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on JChoiCVPub.pdf (6 pages, 82681 bytes).
+Output written on JChoiCVPub.pdf (6 pages, 82270 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
