@@ -32,21 +32,17 @@
 {\bf Data Incubator Mar. - May 2016}  \\
 - highly competitive data science bootcamp \\
 - mini-projects: SQL, Machine Learning (including NLP and Time Series), Visualization, MapReduce, Apache Spark \\
-- capstone project: Consumer's Complaints Analysis ({\scriptsize \url{http://jhc-complaints.herokuapp.com}})
-
-\section{Papers  \\ \& Patents}
-
-{\bf ``Divide and conquer: neuroevolution for multiclass classification''} \\ T. McDonnell, ..., \textbf{J. Choi}, et al, 2018, Proceedings of the Genetic and Evolutionary Computation Conference, 474 \\
-{\bf ``Execution of a genetic algorithm with variable evolutionary weights of topological parameters for neural network generation and training (US20190080240A1)''} \\ S. Andoni, K. D. Moore, E. M. Bonab, \textbf{J. Choi}, \& E. O. Korman \\
-{\bf ``Ensembling of neural network models (US10635978B2)''} \\ S. Andoni, K. D. Moore, E. M. Bonab, \textbf{J. Choi}, \& T. S. McDonnell
+- capstone project: Consumer's Complaints Analysis ({\scriptsize \url{http://jhc-complaints.herokuapp.com}})\\
 
 \section{Academic \\ Projects} Published more than 23 peer review academic journals including 10 leading author.\\
 {\bf Post Doctoral Scholar in University of Texas Aug. 2013 - Nov. 2016} \\ 
-{\it Reionization and Galaxy Formation in the Local Universe}\\
+{\it Reionization and Galaxy Formation in the Local Universe}: Perform data reduce and analysis (including visualization) for the large cosmological simulation for the early Universe and generates $100 \times 15 $TB outputs in Titan Supercomputer at OLCF.\\
 {\bf Post Doctoral Scholar in University of Kentucky Jul. 2010 - Jul. 2013 } \\
-{\it The Early Massive Black Holes}: Improvement and implementation of massively parallelized N-body/Hydrodynamics simulations to investig\\
+{\it The Early Massive Black Holes}: Improvement and implementation of massively parallelized N-body/Hydrodynamics simulations to investigate a new channel of black hole formation in the early Universe.
+Developed python scripts that characterize the simulated gas density probability distribution with linear and polynomial regression, and the power spectrum of the gas perturbation.\\
 {\bf Post Doctoral Scholar in UNLV Sep. 2007 - Jun. 2010} \\
-{\it Galaxy formation in early Universe:}
+{\it Galaxy formation in early Universe:} Using massively parallelized cosmological N-body/Hydro simulation to study evolution of early galaxies. 
+Developed and implemented key subroutines for the galaxy formation physics and on-the-fly density based clustering algorithm to extract the galaxy properties from simulations.
 
 \section{Other \\ Experiences} 
 Co-instructor, who organizes, mentors, and lectures,  for {\it Freshman Research Initiative} course in Department of Astronomy, University of Texas Austin, Jan. - Dec. 2014  \\
