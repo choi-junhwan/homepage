@@ -1,0 +1,67 @@
+% LaTeX resume using res.cls
+\documentclass[margin,centered]{res}
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+\usepackage{hyperref}
+\setlength{\textwidth}{5.1in} % set width of text portion
+
+\begin{document}
+
+% Center the name over the entire width of resume:
+ \moveleft.5\hoffset\centerline{\large\bf Jun-Hwan Choi}
+% Draw a horizontal line the whole width of resume:
+ \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+% address begins here
+% Again, the address lines must be centered over entire width of resume:
+% \moveleft.5\hoffset\centerline{Department of Astronomy University of Texas at Austin 2515 Speedway, Stop C1400 Austin, TX 78712-1205 }
+ \moveleft.5\hoffset\centerline{choi.junhwan@gmail.com}
+% \moveleft.5\hoffset\centerline{junhwan.choi@mg.thedataincubator.com}
+% \moveleft.5\hoffset\centerline{(413) 219-6355 or (512) 471-3351}
+ \moveleft.5\hoffset\centerline{(413) 219-6355}
+
+
+\begin{resume}
+
+\vspace{-0.5cm}
+\section{Objectives} Data Scientist with a background in computational Astrophysics.
+
+\section{Data Science \\ Employment \\ \& Experiences}
+{\bf Data Scientist at SparkCognition Nov. 2016 - Present} \\
+- Building predictive machine learning model with time series data to predict future events using Random Forest, Decision Tree Boosting, and Artificial Neural Network Methods (including CNN and RNN). Unsupervised anomaly detection for future events using clustering algorithms, one-class SVM, t-sne, and variational autoencoder. \\
+- Developing a AutoML/Neural Evolution Machine Learning Platform {\bf {\it Darwin}}.\\
+{\bf Data Incubator Mar. - May 2016}  \\
+- highly competitive data science bootcamp \\
+- mini-projects: SQL, Machine Learning (including NLP and Time Series), Visualization, MapReduce, Apache Spark \\
+- capstone project: Consumer's Complaints Analysis ({\scriptsize \url{http://jhc-complaints.herokuapp.com}})\\
+
+\section{Academic \\ Projects} Published more than 23 peer review academic journals including 10 leading author.\\
+{\bf Post Doctoral Scholar in University of Texas Aug. 2013 - Nov. 2016} \\ 
+{\it Reionization and Galaxy Formation in the Local Universe}: Perform data reduce and analysis (including visualization) for the large cosmological simulation for the early Universe and generates $100 \times 15 $TB outputs in Titan Supercomputer at OLCF.\\
+{\bf Post Doctoral Scholar in University of Kentucky Jul. 2010 - Jul. 2013 } \\
+{\it The Early Massive Black Holes}: Improvement and implementation of massively parallelized N-body/Hydrodynamics simulations to investigate a new channel of black hole formation in the early Universe.
+Developed python scripts that characterize the simulated gas density probability distribution with linear and polynomial regression, and the power spectrum of the gas perturbation.\\
+{\bf Post Doctoral Scholar in UNLV Sep. 2007 - Jun. 2010} \\
+{\it Galaxy formation in early Universe:} Using massively parallelized cosmological N-body/Hydro simulation to study evolution of early galaxies. 
+Developed and implemented key subroutines for the galaxy formation physics and on-the-fly density based clustering algorithm to extract the galaxy properties from simulations.
+
+\section{Other \\ Experiences} 
+Co-instructor, who organizes, mentors, and lectures,  for {\it Freshman Research Initiative} course in Department of Astronomy, University of Texas Austin, Jan. - Dec. 2014  \\
+Organizer for Astronomy Journal Club, UNLV, 2008 - 2009 \\
+Refereed Papers: MNRAS, ApJ (2013 - )
+
+\section{Computer \\ Skills} 
+{\bf Languages \& Software:} Python, C/C++, Fortran, SQL, Matlab/Octave, R, Scala\\
+{\bf Python Data Science Tools:} Scipy, Pandas, Matplotlib, StatsModels, Scikit-Learn, Keras(Tensorflow/Theano), Pytorch \\
+{\bf High Performance Computing Experience:} Develop and implement numerical simulations in national super computing facilities such as TACC, NCSA, and OLCF.
+
+\section{EDUCATION} 
+Ph.D. in Astronomy, University of Massachusetts at Amherst (MA, USA), Aug. 2007 \\
+M.S. in Astronomy, Yonsei University (Seoul, Korea), Feb. 1999 \\
+B.S. in Astronomy (minor in Physics), Yonsei University (Seoul, Korea), Feb. 1997 \\
+ 
+
+\end{resume}
+\end{document}
+
+
+
